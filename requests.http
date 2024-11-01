@@ -1,0 +1,4 @@
+GET http://localhost:5069/ping
+
+### Hello
+GET http://localhost:5069/hello
